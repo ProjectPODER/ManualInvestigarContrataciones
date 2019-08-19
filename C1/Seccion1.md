@@ -45,4 +45,4 @@ Una característica importante es que se pueden Incluir contratos con importe de
 Se puede saber que 10000 contratos de Grupo Fármacos Especializados entre 2012 y 2018, por ejemplo, tuvieron un importe entre 500 mil y 10 millones de pesos. 
 
 ---
-* *Es recomendable que para obtener resultados óptimos los nombres de las dependencias y de los proveedores sean exactos. Es recomendable también probar con diferentes formas de escribir el nombre del proveedor, pues debido a que no hay un estándar que tengan que seguir los servidores que capturan la información, es común que se encuentren diferentes formas de escribir el nombre de un mismo proveedor.*
+*: *Es recomendable que para obtener resultados óptimos los nombres de las dependencias y de los proveedores sean exactos. Es recomendable también probar con diferentes formas de escribir el nombre del proveedor, pues debido a que no hay un estándar que tengan que seguir los servidores que capturan la información, es común que se encuentren diferentes formas de escribir el nombre de un mismo proveedor.*
