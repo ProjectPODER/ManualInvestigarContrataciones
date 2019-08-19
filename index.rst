@@ -34,7 +34,7 @@ Sobre empresas (organizaciones) y personas
 
 .. toctree::
   :maxdepth: 2
-  :caption: 2. Información básica en la cual fijarse en un conjunto de datos
+  :caption: 2. Información básica 
   
   C2/Seccion1
 
@@ -44,7 +44,7 @@ Sobre empresas (organizaciones) y personas
 
   C3/Seccion1
   
-  .. toctree::
+.. toctree::
   :maxdepth: 2
   :caption: 4. Funciones que facilitan el uso de datos
 
