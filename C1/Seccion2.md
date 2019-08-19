@@ -36,7 +36,8 @@ Compranet se compone de dos datasets: Compranet 3.0, que contiene los contratos 
 
 “Algo tan simple como el campo que define si el procedimiento de la compra es adjudicación directa, invitación a tres o licitación en Compranet dependiendo de la fuente se llama “Tipo de procedimiento”, “TIPO_PROCEDIMIENTO” o “TIPO DE PROCEDIMIENTO”, en el IMSS “Procedimiento de compra”, en el POT “Procedimiento de contratación” y la API de contrataciones abiertas de la APF que se puede descarga de datos.gob.mx “tender.procurementMethod”. Los valores que contienen cada uno también tienen variaciones de nombre según la fuente”, según define el informe de TodosLosContratos.mx (ENLACE).
 
-Para buscar en Kibana el tipo de procedimiento en Compranet, se debe filtrar por _index is “ocds-cnet”, “ocds-cnet3” o “ocds-pot”, y seleccionar “tender.procurementMethodDetailsTemplateMxCnet3.
+Para buscar en Kibana el tipo de procedimiento en Compranet, se debe filtrar por _index is “ocds-cnet”, “ocds-cnet3” o “ocds-pot”, y seleccionar “tender.procurementMethodDetailsTemplateMxCnet."[^3]
 
 [^1]: https://kibana-staging.quienesquien.wiki/goto/b9a2b0350353d0a1708cddc3aeb04756
 [^2]: https://kibana-staging.quienesquien.wiki/goto/fc5b4e938af86c65665669e74a6f1478
+[^3]: https://kibana-staging.quienesquien.wiki/goto/6e5bf82d5644092b5d44a032b40951c0
