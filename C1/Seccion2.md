@@ -24,11 +24,11 @@ En TodosLosContratos.mx, plataforma ligada a QQW, que evalúa cómo se contrata 
 
 - Importes cero
 
-Para encontrar los importes cero en Kibana es necesario filtrar por el índice de ocds-cnet, pues sólo es dataset tiene el campo de estatus en cada contrato. De hecho, si se cuentan los contratos con importe 0 en Compranet 3.0, la suma sube de 466 a 486. Después, se usa el filtro “alias_contrato_importe”, con la opción de “is one of”, y se escribe “0” y "0.00[^1]". Finalmente se usa el filtro “contracts.statusMxCnet” para buscar con la opción de “is”, cuántos contratos aparecen con el estatus terminado, activo o expirado.
+Para encontrar los importes cero en Kibana es necesario filtrar por el índice de ocds-cnet, pues sólo es dataset tiene el campo de estatus en cada contrato. De hecho, si se cuentan los contratos con importe 0 en Compranet 3.0, la suma sube de 466 a 486. Después, se usa el filtro “alias_contrato_importe”, con la opción de “is one of”, y se escribe “0” y "0.00"[^1]. Finalmente se usa el filtro “contracts.statusMxCnet” para buscar con la opción de “is”, cuántos contratos aparecen con el estatus terminado, activo o expirado.
 
 - Títulos imprecisos
 
-Títulos que no explican el servicio o bien contratado a profundidad, son títulos imprecisos (Aquí puedes encontrar más definición sobre esto. ENLACE DE DEFINICION DE BANDERAS). Para encontrar algunos basta escribir en el buscador de Kibana dentro del campo tender.title : “servicios profesionales”. Otra forma de buscar los títulos incomprensibles es ver cada uno, seleccionando el filtro de tender.title ente los filtros disponibles en la columna de la izquierda en Kibana dentro de Discover2.
+Títulos que no explican el servicio o bien contratado a profundidad, son títulos imprecisos (Aquí puedes encontrar más definición sobre esto. ENLACE DE DEFINICION DE BANDERAS). Para encontrar algunos basta escribir en el buscador de Kibana dentro del campo tender.title : “servicios profesionales”. Otra forma de buscar los títulos incomprensibles es ver cada uno, seleccionando el filtro de tender.title ente los filtros disponibles en la columna de la izquierda en Kibana dentro de Discover.[^2]
 
 - Campos cambiantes
 
@@ -39,4 +39,4 @@ Compranet se compone de dos datasets: Compranet 3.0, que contiene los contratos 
 Para buscar en Kibana el tipo de procedimiento en Compranet, se debe filtrar por _index is “ocds-cnet”, “ocds-cnet3” o “ocds-pot”, y seleccionar “tender.procurementMethodDetailsTemplateMxCnet3.
 
 [^1]: https://kibana-staging.quienesquien.wiki/goto/b9a2b0350353d0a1708cddc3aeb04756
-
+[^2]: https://kibana-staging.quienesquien.wiki/goto/fc5b4e938af86c65665669e74a6f1478
