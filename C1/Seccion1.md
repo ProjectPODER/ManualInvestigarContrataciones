@@ -26,7 +26,7 @@ Si quisiéramos buscar en QQW los contratos de Grupo Fármacos Especializados en
 
 En cada contrato se encontrará información relevante, como la fecha, el monto, el título del contrato, el tipo de adjudicación. 
 
-El proceso se puede repetir si se está investigando a una Dependencia en específico. Se indica el periodo de tiempo, se selecciona el filtro “Dependencia” y se escribe el nombre de la dependencia, por ejemplo, “Grupo Aeroportuario De La Ciudad de México, S.A. de C.V.”**
+El proceso se puede repetir si se está investigando a una Dependencia en específico. Se indica el periodo de tiempo, se selecciona el filtro “Dependencia” y se escribe el nombre de la dependencia, por ejemplo, **“Grupo Aeroportuario De La Ciudad de México, S.A. de C.V.”** **
 
 
 ### 1.1.2 Procedimiento del contrato
