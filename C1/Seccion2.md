@@ -8,7 +8,7 @@ Por ejemplo, al analizar a la Comisión Federal de Electricidad en la plataforma
 
 Con un indicio, el nombre de una empresa originaria de Jalisco, se puede seguir la pista de ese proveedor dentro de la CFE, y descubrir una red de compañías hermanas a las que la CFE les compró gran cantidad (en valor) de uniformes.
 
-Para encontrar esas relaciones se busca “COMISIÓN FEDERAL DE ELECTRICIDAD” en el filtro de dependencia de QQW, y “maxi uniformes sa de cv” en el filtro de Proveedor. Aparecerán los contratos entre ambas. Se puede revisar los documentos adjuntos a algunos de los contratos y se verá que en más de una ocasión los competidores de Maxi Uniformes eran los mismos: Grupo Oficial y Comercializadora Hagre. Ese es nuestro segundo indicio.
+Para encontrar esas relaciones se busca **“COMISIÓN FEDERAL DE ELECTRICIDAD”** ** en el filtro de dependencia de QQW, y “maxi uniformes sa de cv” en el filtro de Proveedor. Aparecerán los contratos entre ambas. Se puede revisar los documentos adjuntos a algunos de los contratos y se verá que en más de una ocasión los competidores de Maxi Uniformes eran los mismos: Grupo Oficial y Comercializadora Hagre. Ese es nuestro segundo indicio.
 
 Investigando a las tres empresas se encuentra que en realidad están relacionadas entre sí. Para entender bien el modus operandi de las firmas, se vuelve a usar QQW para encontrar ahora los contratos de Grupo Oficial y Comercializadora Hagre con la CFE. 
 
@@ -37,6 +37,9 @@ Compranet se compone de dos datasets: Compranet 3.0, que contiene los contratos 
 “Algo tan simple como el campo que define si el procedimiento de la compra es adjudicación directa, invitación a tres o licitación en Compranet dependiendo de la fuente se llama “Tipo de procedimiento”, “TIPO_PROCEDIMIENTO” o “TIPO DE PROCEDIMIENTO”, en el IMSS “Procedimiento de compra”, en el POT “Procedimiento de contratación” y la API de contrataciones abiertas de la APF que se puede descarga de datos.gob.mx “tender.procurementMethod”. Los valores que contienen cada uno también tienen variaciones de nombre según la fuente”, según define el informe de TodosLosContratos.mx (ENLACE).
 
 Para buscar en Kibana el tipo de procedimiento en Compranet, se debe filtrar por _index is “ocds-cnet”, “ocds-cnet3” o “ocds-pot”, y seleccionar “tender.procurementMethodDetailsTemplateMxCnet."[^3]
+
+---
+**: Es recomendable escribir en mayúsculas y con acentos los nombres de las dependencias en la primera búsqueda, de no aparecer nada, se debe intentar en minúsculas y sin acentos.
 
 [^1]: https://kibana-staging.quienesquien.wiki/goto/b9a2b0350353d0a1708cddc3aeb04756
 [^2]: https://kibana-staging.quienesquien.wiki/goto/fc5b4e938af86c65665669e74a6f1478
