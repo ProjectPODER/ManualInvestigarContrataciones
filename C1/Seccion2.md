@@ -1,4 +1,4 @@
-## 2.2. Indicios para iniciar investigaciones QQW + Kibana
+## 1.2. Indicios para iniciar investigaciones QQW + Kibana
 
 QQW utiliza Kibana para montar lo datos y alimentarse desde ahí. Kibana es una herramienta de elastic search. Estas dos herramientas juntas permiten encontrar patrones que revelan comportamientos  poco comunes o valores que se salen de la normalidad en las compras públicas que pueden servir como indicios para iniciar una investigación.
 
@@ -16,7 +16,7 @@ Ahora tenemos tres indicios que indican que las empresas se conocen, que compite
 
 Es importante aclarar que dadas las deficiencias en cómo se reportan los contratos públicos en México,   y la dispersión de plataformas que existen para hacerlo, casi siempre será necesario ampliar las investigaciones por medio de solicitudes de información para obtener los contratos firmados, convenios modificatorios o facturas, pues esa información rara vez está adjunta en Compranet o el POT.
 
-### 2.2.1 Cómo encontrar malas prácticas en contratación
+### 1.2.1 Cómo encontrar malas prácticas en contratación
 
 Siguiendo con la crítica a las fallas de las dependencias para reportar sus contrataciones, y debido a que no hay incentivos, como una evaluación o la obligatoriedad por ley de hacer buenos reportes de sus contratos, es posible encontrar malas prácticas en cómo se contrata. Esos datos también pueden ser indicios para comenzar investigaciones. 
 
