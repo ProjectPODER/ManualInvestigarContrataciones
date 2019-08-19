@@ -1,3 +1,10 @@
+# 1. Líneas para investigar
+
+Incluso si no se tiene una pregunta disparadora, se pueden entender los datos como aquellos que nos pueden contar historias a partir de dos líneas:
+
+- 1.1. Información cuantitativa 
+- 1.2. Información para obtener indicios para iniciar investigaciones 
+
 ## 1.1. Cuantitativa
 
 QQW es una excelente forma de encontrar datos cuantitativos generales como cuántos contratos tiene una dependencia o un proveedor, en qué periodo contrató más servicios, el contrato más alto y el más bajo en un periodo de tiempo, etc. 
