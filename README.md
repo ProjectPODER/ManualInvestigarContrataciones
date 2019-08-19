@@ -1,4 +1,4 @@
-# ManualInvestigarContrataciones
+# Manual para investigar contrataciones abiertas
 1. Cómo puedes usar QQW + Kibana para tus investigaciones
 
 QQW es una herramienta que reúne casi 4 millones de contratos, datos de cerca de 228 mil empresas, más de 3 mil instituciones y más de 201 mil personas. Y aunque pareciera mucha información, hay diversas formas de obtener el máximo provecho, en especial para hacer investigaciones periodísticas. 
@@ -19,3 +19,28 @@ Sobre empresas (organizaciones) y personas
 - ¿Cuáles son las empresas subsidiarias de una compañía?
 - ¿Y los accionistas principales?
 - Si es una empresa que cotiza en mercado de valores, ¿quiénes son sus consejeros?
+
+.. toctree::
+   :maxdepth: 2
+   :caption: 1. Líneas para investigar
+
+   C1/Seccion1
+   C1/Seccion2
+
+.. toctree::
+  :maxdepth: 2
+  :caption: 2. Información básica en la cual fijarse en un conjunto de datos
+  
+  C2/Seccion1
+
+.. toctree::
+  :maxdepth: 2
+  :caption: 3. Página de una empresa
+
+  C3/Seccion1
+  
+  .. toctree::
+  :maxdepth: 2
+  :caption: 4. Funciones que facilitan el uso de datos
+
+  C4/Seccion1
