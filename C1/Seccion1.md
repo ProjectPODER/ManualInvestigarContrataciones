@@ -8,7 +8,7 @@ Los filtros permiten buscar por proveedor, dependencia, vigencia de contrato, pr
 
 ### 2.1.1. Proveedores
 
-Este filtro resulta útil y básico cuando ya se tiene el nombre del proveedor que se está buscando. Cuando el presidente Andrés Manuel López Obrador publicó datos sobre las compras de medicinas por parte del IMSS y del ISSSTE1, muchos medios lo retomaron. Pero en PODER ya habíamos publicado, junto con El Universal Data, reportajes sobre la compra de medicamentos durante el primer trienio de Enrique Peña Nieto y los proveedores favoritos, como Grupo Fármacos Especializados, gracias a los datos en QQW. Así, esta herramienta ofrece la posibilidad de adelantarse incluso a comunicados del gobierno.
+Este filtro resulta útil y básico cuando ya se tiene el nombre del proveedor que se está buscando. Cuando el presidente Andrés Manuel López Obrador publicó datos sobre las compras de medicinas por parte del IMSS y del ISSSTE1, muchos medios lo retomaron. Pero en PODER ya habíamos publicado, junto con El Universal Data, [reportajes sobre la compra de medicamentos durante el primer trienio de Enrique Peña Nieto y los proveedores favoritos, como Grupo Fármacos Especializados](https://www.rindecuentas.org/reportajes/2016/09/19/emporio-farmaceutico/), gracias a los datos en QQW. Así, esta herramienta ofrece la posibilidad de adelantarse incluso a comunicados del gobierno.
 
 Si quisiéramos buscar en QQW los contratos de Grupo Fármacos Especializados entre 2012 y 2018, sexenio de Enrique Peña Nieto:
 
@@ -21,7 +21,7 @@ En cada contrato se encontrará información relevante, como la fecha, el monto,
 
 El proceso se puede repetir si se está investigando a una Dependencia en específico. Se indica el periodo de tiempo, se selecciona el filtro “Dependencia” y se escribe el nombre de la dependencia, por ejemplo, “Grupo Aeroportuario De La Ciudad de México, S.A. de C.V.”*. 
 
-*Es recomendable que para obtener resultados óptimos los nombres de las dependencias y de los proveedores sean exactos. Es recomendable también probar con diferentes formas de escribir el nombre del proveedor, pues debido a que no hay un estándar que tengan que seguir los servidores que capturan la información, es común que se encuentren diferentes formas de escribir el nombre de un mismo proveedor.
+**Es recomendable que para obtener resultados óptimos los nombres de las dependencias y de los proveedores sean exactos. Es recomendable también probar con diferentes formas de escribir el nombre del proveedor, pues debido a que no hay un estándar que tengan que seguir los servidores que capturan la información, es común que se encuentren diferentes formas de escribir el nombre de un mismo proveedor.**
 
 ### 2.1.2 Procedimiento del contrato
 
