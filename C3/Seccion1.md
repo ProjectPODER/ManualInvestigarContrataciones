@@ -1,4 +1,4 @@
-## 4. Página de una empresa
+## 3. Página de una empresa
 
 QQW permite encontrar información de cada empresa que ha realizado contratos con la administración pública y también de aquellas que cotizan en la Bolsa Mexicana de Valores. 
 
