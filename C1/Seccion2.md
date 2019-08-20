@@ -20,7 +20,7 @@ Es importante aclarar que dadas las deficiencias en cómo se reportan los contra
 
 Siguiendo con la crítica a las fallas de las dependencias para reportar sus contrataciones, y debido a que no hay incentivos, como una evaluación o la obligatoriedad por ley de hacer buenos reportes de sus contratos, es posible encontrar malas prácticas en cómo se contrata. Esos datos también pueden ser indicios para comenzar investigaciones. 
 
-En TodosLosContratos.mx, plataforma ligada a QQW, que evalúa cómo se contrata y cómo se reportan esas contrataciones en México, hemos encontrado algunas malas prácticas que puedes leer aquí (ENLACE). En este apartado explicamos cómo replicar la búsqueda desde QQW + Kibana para encontrar esos patrones extraños que no suman a la transparencia y rendición de cuentas. 
+En TodosLosContratos.mx, plataforma ligada a QQW, que evalúa cómo se contrata y cómo se reportan esas contrataciones en México, hemos encontrado algunas malas prácticas que puedes [leer aquí](https://www.rindecuentas.org/reportajes/2019/08/20/10-malas-practicas-en-la-contratacion-publica-mexicana/). En este apartado explicamos cómo replicar la búsqueda desde QQW + Kibana para encontrar esos patrones extraños que no suman a la transparencia y rendición de cuentas. 
 
 - Importes cero
 
