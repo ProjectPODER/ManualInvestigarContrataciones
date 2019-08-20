@@ -28,13 +28,13 @@ Para encontrar los importes cero en Kibana es necesario filtrar por el índice d
 
 - Títulos imprecisos
 
-Títulos que no explican el servicio o bien contratado a profundidad, son títulos imprecisos (Aquí puedes encontrar más definición sobre esto. ENLACE DE DEFINICION DE BANDERAS). Para encontrar algunos basta escribir en el buscador de Kibana dentro del campo tender.title : “servicios profesionales”. Otra forma de buscar los títulos incomprensibles es ver cada uno, seleccionando el filtro de tender.title ente los filtros disponibles en la columna de la izquierda en Kibana dentro de Discover.[^2]
+Títulos que no explican el servicio o bien contratado a profundidad, son títulos imprecisos. [(Aquí puedes encontrar más definición sobre esto.)](https://todosloscontratos.mx/#metodologia) Para encontrar algunos basta escribir en el buscador de Kibana dentro del campo tender.title : “servicios profesionales”. Otra forma de buscar los títulos incomprensibles es ver cada uno, seleccionando el filtro de tender.title ente los filtros disponibles en la columna de la izquierda en Kibana dentro de Discover.[^2]
 
 - Campos cambiantes
 
 Compranet se compone de dos datasets: Compranet 3.0, que contiene los contratos de 2002 a 2011 y Compranet, que contiene los contratos de 2010 a 2018. Ambas fuentes han sido incluidas en QuienEsQuien.Wiki / Kibana, y analizadas para encontrar malas prácticas a través de sus campos. A esto se suma que los campos del POT no replican muchos de los que existen en ambas versiones de Compranet. Pero los campos entre los diferentes datasets han ido cambiando, lo que hace difícil estandarizar la búsqueda de contratos. 
 
-“Algo tan simple como el campo que define si el procedimiento de la compra es adjudicación directa, invitación a tres o licitación en Compranet dependiendo de la fuente se llama “Tipo de procedimiento”, “TIPO_PROCEDIMIENTO” o “TIPO DE PROCEDIMIENTO”, en el IMSS “Procedimiento de compra”, en el POT “Procedimiento de contratación” y la API de contrataciones abiertas de la APF que se puede descarga de datos.gob.mx “tender.procurementMethod”. Los valores que contienen cada uno también tienen variaciones de nombre según la fuente”, según define el informe de TodosLosContratos.mx (ENLACE).
+“Algo tan simple como el campo que define si el procedimiento de la compra es adjudicación directa, invitación a tres o licitación en Compranet dependiendo de la fuente se llama “Tipo de procedimiento”, “TIPO_PROCEDIMIENTO” o “TIPO DE PROCEDIMIENTO”, en el IMSS “Procedimiento de compra”, en el POT “Procedimiento de contratación” y la API de contrataciones abiertas de la APF que se puede descarga de datos.gob.mx “tender.procurementMethod”. Los valores que contienen cada uno también tienen variaciones de nombre según la fuente”, según define el informe de [TodosLosContratos.mx]( https://todosloscontratos.mx/docs/Contrataciones-abiertas-para-la-rendicion-de-cuentas.pdf).
 
 Para buscar en Kibana el tipo de procedimiento en Compranet, se debe filtrar por _index is “ocds-cnet”, “ocds-cnet3” o “ocds-pot”, y seleccionar “tender.procurementMethodDetailsTemplateMxCnet."[^3]
 
