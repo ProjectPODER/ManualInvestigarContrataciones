@@ -1,7 +1,7 @@
 Manual para investigar contrataciones abiertas
 ==========================================================================================================
 
-Este manual es una iniciativa del `Proyecto sobre Organización, Desarrollo, Educación e Investigación (PODER) <https://www.projectpoder.org/es>`_ ealizado por Claudia Ocaranza para facilitar el trabajo de investigación con contratos a partir de la plataforma `QuiénEsQuién.Wiki <https://www.quienesquien.wiki>`_ . Para dudas, comentarios o mejoras escribir a `info@quienesquien.wiki <mailto:info@quienesquien.wiki>`_ .
+Este manual es una iniciativa del `Proyecto sobre Organización, Desarrollo, Educación e Investigación (PODER) <https://www.projectpoder.org/es>`_ realizado por Claudia Ocaranza para facilitar el trabajo de investigación con contratos a partir de la plataforma `QuiénEsQuién.Wiki <https://www.quienesquien.wiki>`_ . Para dudas, comentarios o mejoras escribir a `info@quienesquien.wiki <mailto:info@quienesquien.wiki>`_ .
 
 1. Cómo puedes usar QQW + Kibana para tus investigaciones
 ------------
